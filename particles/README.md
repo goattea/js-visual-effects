@@ -1,3 +1,3 @@
-# Perticles
+# Particles
 
 Exploring simple particles
